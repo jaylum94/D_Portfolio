@@ -1,7 +1,7 @@
 # D_Portfolio
 Documentation of some of the projects I've worked on
 
-# Project 1: Predicting obesity using classifier models on lifestyle and eating habits (tested using R)
+# [Project 1: Predicting obesity using classifier models on lifestyle and eating habits (tested using R)](https://github.com/jaylum94/machine_learning_classifier.git)
 ## Data preprocessing
 *	A dataset that compiled a group of participants' particulars and lifestyle habits, consisting of both categorical and numerical variables, was used.
 *	Missing data was imputed.
@@ -18,7 +18,7 @@ Documentation of some of the projects I've worked on
 *	The RF model was tuned, testing various tree number values and different number of variables at each split.
 *	Once the optimum values were obtained, the 2 models were benchmarked against one another with the RF model outperforming the KNN model in the case of this study.
  
-# Project 2: Forecasting economic growth using econometrics and deep learning (tested using R and Python)
+# [Project 2: Forecasting economic growth using econometrics and deep learning (tested using R and Python)](https://github.com/jaylum94/econometrics_deep_learning_comparison.git)
 ## Data preprocessing
 
 * A timeseries dataset consisting of various economic but purely numerical variables was used.
