@@ -38,4 +38,4 @@ Documentation of some of the projects I've worked on
 * Tuning of the model hyperparameters were done by testing various hidden and dense layers across various epoch values. 
 * A form of validation for timeseries analysis known as walk-forward validation was implemented for the model.
 * The model was evaluated using the same evaluation metrics as the VAR model and the economic growth values for the year 2021 were forecasted.
-* The evaluation metrics and the forecasted values of each model were then compared to each other as well as the official economic growth values as published by the Department of Statistics, Malaysia (DOSM).
+* The evaluation metrics and the forecasted values of each model were then compared to each other as well as the official economic growth values as published by the Department  of Statistics, Malaysia (DOSM).
